@@ -1,0 +1,13 @@
+{
+  "name": "evm-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:charlesjhongc/evm-scripts.git",
+  "author": "Charles Jhong <charlesjhongc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "pino": "^8.11.0",
+    "pino-pretty": "^9.4.0"
+  }
+}
